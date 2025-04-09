@@ -1,3 +1,6 @@
+<script setup></script>
 <template>
-    <h1 class="text-7xl font-bold underline text-center">Hello world!</h1>
+    <Layout>
+        <h2 class="text-3xl text-center">Home Page</h2>
+    </Layout>
 </template>
